@@ -1,8 +1,8 @@
-### Hi there 👋
-
+### 안녕하세요 성장하는 개발자 정지윤입니다.👋
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fenchantee00)](https://hits.seeyoufarm.com)
 <!--
-**enchantee00/enchantee00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**shinplest/shinplest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=enchantee00&show_icons=true&hide_border=true)](https://github.com/enchantee00)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enchantee00&layout=compact)](https://github.com/enchantee00)
