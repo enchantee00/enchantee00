@@ -17,8 +17,9 @@
     <a href="https://velog.io/@enchantee">![](https://img.shields.io/badge/Tech_Blog-04C485?style=flat-square&logo=Vonage&logoColor=white)</a> <a href="https://www.instagram.com/enc.hantee/">![](https://img.shields.io/badge/Instagram-D31C46?style=flat-square&logo=Instagram&logoColor=white)</a> ![](https://img.shields.io/badge/Gmail-DC0000?style=flat-square&logo=Gmail&logoColor=white)
 </center>
 
-
-![footer](https://capsule-render.vercel.app/api?section=footer&color=auto&type=waving)
-
 [![github stats](https://github-readme-stats.vercel.app/api?username=enchantee00&show_icons=true&hide_border=true)](https://github.com/enchantee00)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enchantee00&layout=compact)](https://github.com/enchantee00)
+
+
+
+![footer](https://capsule-render.vercel.app/api?section=footer&color=auto&type=waving)
