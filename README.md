@@ -6,11 +6,16 @@
 
 <p align="center"> Techs that I've used at least once </p>
 
-![](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white) ![](https://img.shields.io/badge/Swift-F6F1EB?style=flat-square&logo=Swift&logoColor=orange) ![](https://img.shields.io/badge/C-9e9e9e?style=flat-square&logo=C&logoColor=white)
 
+<p align="center">
+  ![](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white) ![](https://img.shields.io/badge/Swift-F6F1EB?style=flat-square&logo=Swift&logoColor=orange) ![](https://img.shields.io/badge/C-9e9e9e?style=flat-square&logo=C&logoColor=white)
+</p>
+  
 <h3 align="center"> 📞 Contacts </h3>
 
-<a href="https://velog.io/@enchantee">![](https://img.shields.io/badge/Tech_Blog-04C485?style=flat-square&logo=Vonage&logoColor=white)</a> <a href="https://www.instagram.com/enc.hantee/">![](https://img.shields.io/badge/Instagram-D31C46?style=flat-square&logo=Instagram&logoColor=white)</a> ![](https://img.shields.io/badge/Gmail-DC0000?style=flat-square&logo=Gmail&logoColor=white)
+<p align="center>
+  <a href="https://velog.io/@enchantee">![](https://img.shields.io/badge/Tech_Blog-04C485?style=flat-square&logo=Vonage&logoColor=white)</a> <a href="https://www.instagram.com/enc.hantee/">![](https://img.shields.io/badge/Instagram-D31C46?style=flat-square&logo=Instagram&logoColor=white)</a> ![](https://img.shields.io/badge/Gmail-DC0000?style=flat-square&logo=Gmail&logoColor=white)
+</p>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fenchantee00)](https://hits.seeyoufarm.com)
 
