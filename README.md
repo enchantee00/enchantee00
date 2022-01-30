@@ -3,6 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jiyun%20Jung&desc=iOS%20Developer&fontSize=90&animation=fadeIn&fontAlign=70&fontAlignY=35&descAlign=88)
 
 ### <center>💻 Tech Stack 💻</center>
+<h3 align="center"> 💻 Tech Stack 💻 </h3>
 
 ##### <center>Techs that I've used at least once</center>
 
