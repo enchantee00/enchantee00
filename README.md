@@ -8,8 +8,7 @@
 
 
 
-![](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white) ![](https://img.shields.io/badge/Swift-F6F1EB?style=flat-square&logo=Swift&logoColor=orange) ![](https://img.shields.io/badge/C-B8B8B8?style=flat-square&logo=C&logoColor=white)
-
+![](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white) ![](https://img.shields.io/badge/Swift-F6F1EB?style=flat-square&logo=Swift&logoColor=orange)
 
 ### 📞 Contacts
 
