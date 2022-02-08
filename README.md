@@ -2,6 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jiyun%20Jung&desc=iOS%20Developer&fontSize=90&animation=fadeIn&fontAlign=70&fontAlignY=35&descAlign=88)
 
+
+<div align="center">
 <h3 align="center"> 💻 Tech Stack 💻 </h3>
 <br>
 <br>
@@ -27,6 +29,8 @@
 
 <br>
 <br>
+
+</div> 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fenchantee00)](https://hits.seeyoufarm.com)
 
