@@ -1,6 +1,6 @@
 ### 안녕하세요 도전하는 개발자 정지윤입니다.👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jiyoon%20Jung&desc=iOS%20Developer&fontSize=90&animation=fadeIn&fontAlign=70&fontAlignY=35&descAlign=88)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jiyoon%20Jung&desc=ML%20Developer&fontSize=90&animation=fadeIn&fontAlign=70&fontAlignY=35&descAlign=88)
 
 
 <div align="center">
