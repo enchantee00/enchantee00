@@ -2,21 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jiyoon%20Jung&desc=ML%20Developer&fontSize=90&animation=fadeIn&fontAlign=70&fontAlignY=35&descAlign=88)
 
 
-<div align="center">
-<h3 align="center"> 💻 Tech Stack 💻 </h3>
-<br>
-<br>
 
-<p align="center"> Techs that I've used at least once </p>
-
-<p align="center">
-  
-  ![](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white) ![](https://img.shields.io/badge/Swift-F6F1EB?style=flat-square&logo=Swift&logoColor=orange) ![](https://img.shields.io/badge/C-9e9e9e?style=flat-square&logo=C&logoColor=white)
-  
-</p>
-
-<br>
-<br>
  
 <h3 align="center"> 📞 Contacts </h3>
 
